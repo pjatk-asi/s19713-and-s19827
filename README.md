@@ -37,3 +37,9 @@
 # Architecture diagram 
 ![Architecture_diagram_s19713](https://user-images.githubusercontent.com/65914137/176977782-9be89cdf-5c8e-427c-a26c-63d912ee5e19.png)
    
+
+
+# Authors
+
+1. Michał Melaniuk (s19713)
+2. Piotr Trepka (s19827)
