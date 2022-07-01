@@ -34,4 +34,6 @@
 4. Drift detection
     - python drift_detection.py
     
-# Architecture diagram (draw.io)  
+# Architecture diagram 
+![Architecture_diagram_s19713](https://user-images.githubusercontent.com/65914137/176977782-9be89cdf-5c8e-427c-a26c-63d912ee5e19.png)
+   
