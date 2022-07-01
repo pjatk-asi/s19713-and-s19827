@@ -20,8 +20,8 @@
 
 1. Configure your environment:
     - install conda
-    - download environment.yml file
-    - create new environment: $ conda env create -f environment.yml
+    - download majki.yml file
+    - create new environment: $ conda env create -f majki.yml
     - activate the environment: $ conda activate majki
     - you should see this information
    ![image](https://user-images.githubusercontent.com/65914137/176976248-e9c113ce-ae16-4b53-9d1c-5acb7ab7aa10.png)
